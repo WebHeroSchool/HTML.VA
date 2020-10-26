@@ -1,0 +1,18 @@
+.title {
+  font-family: Roboto;
+ }
+ .wrapper {
+   margin: auto;
+   width: 80%;
+  }                                           
+.header {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.logo, .menu {
+ display: inline-block;  
+}
+.logo{
+ padding: 40px 0;
+}
